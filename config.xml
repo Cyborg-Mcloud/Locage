@@ -46,6 +46,10 @@ all groups are hidden for other users by default, but group admin can make a gro
 
 
 <feature name="http://api.phonegap.com/1.0/file" />
+		<gap:plugin name="org.apache.cordova.file" />
+		<gap:plugin name="org.apache.cordova.network-information" />
+<gap:plugin name="org.apache.cordova.geolocation" />
+
 
 
 
