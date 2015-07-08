@@ -8,7 +8,8 @@
 		package="com.designge.locage"
 		>
     <name>LocAge</name>
-
+<access origin="http://*" />
+<access origin="https://*" />
     <description>
        LocAge is an online multiplayer map web/app system to manage/locate/be in touch with your family/team/extreme activity
 
